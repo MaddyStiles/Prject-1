@@ -1,0 +1,19 @@
+h1, h2, h3{ 
+    color: blue;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+p{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+ul{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+a{
+    color: purple;
+}
+
+img{
+    border-style: double;
+    border-color: aquamarine;
+}
