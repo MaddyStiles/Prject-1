@@ -1,19 +1,38 @@
 h1, h2, h3{ 
-    color: blue;
+    color: pink;
     font-family: 'Nanum Myeongjo', serif;
 }
 
 p{
     font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14pt;
 }
+
 ul{
     font-family: 'Open Sans Condensed', sans-serif;
 }
+
 a{
-    color: purple;
+    color: lightblue;
 }
 
-img{
+.profile{
     border-style: double;
     border-color: aquamarine;
+    border-width: 10px;
+    padding: 5px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.info{
+    border-style: dotted;
+    border-color: aquamarine;
+    border-width: 5px;
+    padding: 5px;
+    display: inline-block;
+}
+
+body{
+    background-color: cornsilk
 }
